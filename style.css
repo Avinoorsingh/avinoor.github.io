@@ -349,7 +349,7 @@ li a:hover{
     font-weight: 500;
     font-size: 18px;
 }
-.skills .skills-content .right .line{
+.skills .skills-content .right {
     height: 5px;
     background: crimson;
     position: relative;
@@ -357,7 +357,6 @@ li a:hover{
 .skills .skills-content .right .line::before{
     content: "";
     position: absolute;
-    height: 100%;
     left: 0;
     top: 0;
     background: crimson;
