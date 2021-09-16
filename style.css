@@ -351,7 +351,13 @@ li a:hover{
 }
 .skills .skills-content .right .line{
     height: 5px;
-    width: 100%;
+    width: 90%;
+    background: crimson;
+    position: relative;
+}
+.skills .skills-content .right .line2{
+    height: 5px;
+    width: 75%;
     background: crimson;
     position: relative;
 }
